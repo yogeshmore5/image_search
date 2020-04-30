@@ -5,7 +5,7 @@ This is a dummy project created to learn ReactJS
   - Understanding of HTML, CSS, Javascript, ES6 features and syntax
 
 ### Third Party API
-  - Unsplash API is used to fetch the Photos dat
+  * Unsplash API is used to fetch the Photos dat
     ..*. Register on https://unsplash.com/
     ..*. Go to https://unsplash.com/developers
     ..*. Go to Apps
