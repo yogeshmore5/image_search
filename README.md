@@ -6,11 +6,11 @@ This is a dummy project created to learn ReactJS
 
 ### Third Party API
   * Unsplash API is used to fetch the Photos dat
-    ..*. Register on https://unsplash.com/
-    ..*. Go to https://unsplash.com/developers
-    ..*. Go to Apps
-    ..*. Create new application by accepting terms and conditions
-    ..*. After creating new App copy the Access Key and save in file src/api/unsplash.js
+  * Register on https://unsplash.com/
+  * Go to https://unsplash.com/developers
+  * Go to Apps
+  * Create new application by accepting terms and conditions
+  * After creating new App copy the Access Key and save in file src/api/unsplash.js
 
 ### This has following features
   - Show Search Input field for image search
