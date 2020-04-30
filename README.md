@@ -30,3 +30,5 @@ This is a dummy project created to learn ReactJS
   - **Run Command** `npm install` to get node modules installed
   - **Run Command** `cp <cloned dir>`
   - **Run Command** `npm start`  Assuming that port 3000 is open
+
+#Learned from https://www.udemy.com/course/react-redux/ course 
